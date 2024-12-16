@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title{
+    font-family: 'Freckle Face';
+}
+
+*{
+    font-family: 'Poppins';
+}

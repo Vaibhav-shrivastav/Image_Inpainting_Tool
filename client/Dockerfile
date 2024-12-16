@@ -1,5 +1,5 @@
 # Use Node image for building the frontend
-FROM node:18
+FROM node:20-slim
 
 # Set working directory
 WORKDIR /app
